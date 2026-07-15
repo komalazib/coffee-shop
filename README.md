@@ -1,11 +1,40 @@
+# ☕ Coffee Shop Web Application
 
-  # Coffee Shop Web Application
+A modern Coffee Shop web application built using React, TypeScript, and Vite. The application provides an attractive user interface for browsing coffee products and offers a responsive design for a seamless user experience.
 
-  This is a code bundle for Coffee Shop Web Application. The original project is available at https://www.figma.com/design/dT6tV7mS4SRcAeNfuZzSHq/Coffee-Shop-Web-Application.
+## Features
+- Responsive user interface
+- Browse coffee products
+- Modern React components
+- Fast development with Vite
+- TypeScript support
 
-  ## Running the code
+## Technologies Used
+- React
+- TypeScript
+- Vite
+- CSS / Tailwind CSS
 
-  Run `npm i` to install the dependencies.
+## Installation
 
-  Run `npm run dev` to start the development server.
-  
+Clone the repository:
+
+```bash
+git clone https://github.com/komalazib/coffee-shop.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## Author
+
+**Komal Azib**
