@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Web Application
+☕ Coffee Shop Web Application
 
 A modern Coffee Shop web application built using React, TypeScript, and Vite. The application provides an attractive user interface for browsing coffee products and offers a responsive design for a seamless user experience.
 
